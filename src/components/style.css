@@ -1,0 +1,19 @@
+body{
+    background-image: linear-gradient(120deg, #d4fc79 0%, #96e6a1 100%);
+    /* background-image: linear-gradient(to right, rgb(32, 168, 222),rgb(0, 173, 241), rgb(133, 237, 133),rgb(73, 220, 73)); */
+    /* background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1)); */
+}
+.c2{
+    
+    background: linear-gradient(
+                   gold,
+                   black,
+                   
+                   maroon,
+                   red,
+                   cyan
+                   );
+            -webkit-background-clip: text;
+            color: transparent;
+        
+}
